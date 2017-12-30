@@ -4,8 +4,8 @@ This is a blog of Heatwave.
 
 ## Content
 
-1. [JavaScript: The Good Part读书笔记](https://raw.githubusercontent.com/Heatwave/Blog/master/images/JavaScript-%20The%20Good%20Part.png)
-1. [用C#创建PDF文件:iTextSharp的应用](https://github.com/Heatwave/Blog/issues/1)
+1. [JavaScript: The Good Part读书笔记](assets/images/javascript-the-good-part)
+1. [用C#创建PDF文件:iTextSharp的应用](network-sniffer-based-on-winpcap/winpcap-introduction-installation)
 1. 基于WinPcap的MFC网络嗅探器
     1. [WinPcap简介与安装](https://heatwave.github.io/network-sniffer-based-on-winpcap/winpcap-introduction-installation.md)
     1. [创建VS2010项目与配置项目](https://heatwave.github.io/network-sniffer-based-on-winpcap/set-up-project.md)
