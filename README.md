@@ -2,7 +2,7 @@
 
 This is a blog of Heatwave.
 
-## Content
+## Contents
 
 1. [JavaScript: The Good Part读书笔记](assets/images/javascript-the-good-part.png)
 1. [用C#创建PDF文件:iTextSharp的应用](csharp-pdf-itextsharp.md)
