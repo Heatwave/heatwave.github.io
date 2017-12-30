@@ -1,3 +1,4 @@
 theme: jekyll-theme-midnight
 encoding: UTF-8
 title: Heatwave's Blog
+baseurl: "/"
