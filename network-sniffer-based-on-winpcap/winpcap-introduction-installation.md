@@ -53,4 +53,4 @@ Include目录下为基于WinPcap库进行开发所需的头文件。
 
 Lib目录下为基于WinPcap库进行开发所需的库文件。
 
-下载安装好后，就可以开始创建项目了！下一篇： [创建VS2010项目与配置](https://github.com/Heatwave/Blog/issues/3)
+下载安装好后，就可以开始创建项目了！下一篇： [创建VS2010项目与配置](set-up-project.md)

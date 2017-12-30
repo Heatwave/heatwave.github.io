@@ -14,7 +14,6 @@ This is a blog of Heatwave.
     1. [打开适配器并捕获数据包](network-sniffer-based-on-winpcap/open-adapter-and-sniff.md)
     1. [不用回调方法捕获数据包](network-sniffer-based-on-winpcap/sniff-without-callback.md)
     1. [过滤数据包](network-sniffer-based-on-winpcap/filter-network-packet.md)
-    1. [分析数据包](network-sniffer-based-on-winpcap/analysis-network-packet.md)
 
 ## Others
 
