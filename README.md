@@ -1,4 +1,4 @@
-# Welcome to Heatwave Blog
+# Welcome to the Blog
 
 This is a blog of Heatwave.
 
