@@ -5,7 +5,7 @@ This is a blog of Heatwave.
 ## Contents
 
 1. [JavaScript: The Good Part 读书笔记](assets/images/javascript-the-good-part.png)
-1. [Core Java Volume I - Fundament 读书笔记](asserts/images/Core-Java-Volume-I-Fundament.png)
+1. [Core Java Volume I - Fundament 读书笔记](assets/images/Core-Java-Volume-I-Fundament.png)
 1. [用C#创建PDF文件:iTextSharp的应用](csharp-pdf-itextsharp.md)
 1. 基于WinPcap的MFC网络嗅探器:
     1. [WinPcap简介与安装](network-sniffer-based-on-winpcap/winpcap-introduction-installation.md)
